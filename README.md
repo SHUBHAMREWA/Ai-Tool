@@ -12,6 +12,6 @@ This is an AI-powered chat application built using React, Tailwind CSS, and Gemi
 - Styled using Tailwind CSS
 
 ## Installation
-```bash
-npm install
-npm start
+taiwind css 
+npm i 
+
