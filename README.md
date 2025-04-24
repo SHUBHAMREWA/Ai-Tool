@@ -14,7 +14,7 @@ using Tailwind CSS for Styling and Responsive Design
 using Google Gemini API to get Response of our Questions
 
 DAY 2
-# Date - 21/04/2025
+## Date - 21/04/2025
 learning how to fetch API data and how to manage and show and store in Array
 using Hooks (useState, useEffect) and External Component to get Responses of Design
 
