@@ -2,7 +2,7 @@
 import { useState ,useEffect } from "react";
 import { checkHeading ,changeAns } from "../helper";
 
-const Answers =({answers ,ansLength, index})=>{
+const Answers =({answers , ansLength, index})=>{
           
      const [heading ,setHeading]  = useState(false) ;
      const [ans ,setAns]          = useState(answers) ;
