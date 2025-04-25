@@ -51,5 +51,11 @@ DAY 4
 > reading (onKeyDown) key using "onKeyDown.key"  
 
 
+DAY 5 
+### Data - 25/04/2025 
+
+> Adding Loader before Answer 
+
+> Auto Scroll Using .scrollTop =  .scrollHeight 
 
    
