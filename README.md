@@ -58,4 +58,9 @@ DAY 5
 
 > Auto Scroll Using .scrollTop =  .scrollHeight 
 
+### Date -  26/04/2025  AI chat boot completed 
+
+> Adding Dark and Light mode 
+
+>Thank you TASK completed 
    
